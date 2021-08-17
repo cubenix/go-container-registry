@@ -1,4 +1,4 @@
-module github.com/gauravgahlot/k8scr
+module github.com/gauravgahlot/go-container-registry
 
 go 1.16
 
